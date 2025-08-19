@@ -1,10 +1,10 @@
-@"
+# Build settings
 [build]
-  publish = "dist"
-  command = "npm run build"
+  command = "npm run build"   # คำสั่ง build โปรเจกต์ Vite
+  publish = "dist"            # โฟลเดอร์ output หลัง build
 
+# Redirects สำหรับ SPA React Router / HashRouter
 [[redirects]]
   from = "/*"
   to = "/index.html"
   status = 200
-"@ | Set-Content netlify.toml
