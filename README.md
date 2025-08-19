@@ -18,9 +18,8 @@ Brief description of your portfolio website and its purpose.
 - Smooth scrolling navigation
 - [Additional features you implemented]
 
-## Live Demo
-https://warintornkhrueainta.github.io/my-portfolio-new/
-# https://aemwarintorn.netlify.app/
+## Live Demo 
+https://aemwarintorn.netlify.app/
 ## Local Development
 ```bash
 npm install
